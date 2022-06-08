@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = anam.arbelaezlopez@gmail.com
+	name = Ana Maria Arbelaez L
